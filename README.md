@@ -30,6 +30,12 @@
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/ragha9h3l)
 - [HackerEarth](https://www.hackerearth.com/@ragha8951)
 
+**Learning References:**
+- [W3Schools - Language Reference](https://www.w3schools.com/)
+- [Apna College Java Placement Series](https://www.youtube.com/watch?v=NTHVTY6w2Co&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&index=11) *(Theoretical Understanding)*
+- [Striver's LeetCode Videos](https://www.youtube.com/) *(Conceptual Understanding)*
+- **ChatGPT** *(For better understanding and simplification)*
+
 **Books:**
 - [ ] *Introduction to Algorithms (CLRS)*
 - [ ] *Cracking the Coding Interview - Gayle Laakmann*
