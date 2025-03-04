@@ -23,7 +23,7 @@
 
 **Following:**
 - [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- [Striver's A2Z DSA Course](https://www.youtube.com/)
+- [Striver's A2Z DSA Course](https://www.youtube.com/@takeUforward/)
 
 **Solving on:**
 - [LeetCode](https://leetcode.com/ragha8951)
@@ -31,9 +31,9 @@
 - [HackerEarth](https://www.hackerearth.com/@ragha8951)
 
 **Learning References:**
-- [W3Schools - Language Reference](https://www.w3schools.com/)
+- [W3Schools - Language Reference](https://www.w3schools.com/java/default.asp)
 - [Apna College Java Placement Series](https://www.youtube.com/watch?v=NTHVTY6w2Co&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&index=11) *(Theoretical Understanding)*
-- [Striver's LeetCode Videos](https://www.youtube.com/) *(Conceptual Understanding)*
+- [Striver's LeetCode Videos](https://www.youtube.com/watch?v=tNm_NNSB3_w) *(Conceptual Understanding)*
 - **ChatGPT** *(For better understanding and simplification)*
 
 **Books:**
