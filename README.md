@@ -4,18 +4,31 @@
 
 ---
 
+### Team: Recursive Hustlers - Daily Progress Update
+
+📌 **Progress Tracking Sheet:** [Google Sheets Link](https://docs.google.com/spreadsheets/d/1Iub6sU8TcSSOFmZWBBRGCyNbkXpRpY0OTLlz2niOruM/edit?usp=sharing)
+
+---
+
 ### Important Topics Checklist
 
+#### **Beginner Topics:**
 - [ ] Arrays & Strings
 - [ ] Recursion & Backtracking
 - [ ] Linked List
 - [ ] Stacks & Queues
+
+#### **Intermediate Topics:**
 - [ ] Binary Trees & BST
 - [ ] Graphs & Shortest Path
-- [ ] Dynamic Programming (DP)
 - [ ] Greedy Algorithms
-- [ ] Tries & Hashing
+- [ ] Hashing & Tries
+
+#### **Advanced Topics:**
+- [ ] Dynamic Programming (DP)
 - [ ] Segment Trees & Fenwick Trees
+- [ ] Bit Manipulation
+- [ ] Disjoint Set & Union-Find
 
 ---
 
@@ -49,4 +62,5 @@
 
 ---
 
-> _"Stay consistent. DSA mastery is a marathon, not a sprint!"_
+> _"Stay consistent. DSA mastery is a marathon, not a sprint!"_ 🚀
+
